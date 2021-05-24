@@ -4,7 +4,7 @@
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/masarufuruya/followers.svg)](http://qiita.com/masarufuruya)
 
 # Summary
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=masarufuruya)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=masarufuruya&theme=monokai)
 
 
 
